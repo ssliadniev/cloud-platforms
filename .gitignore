@@ -8,3 +8,5 @@
 # .tfstate files
 *.tfstate
 *.tfstate.*
+
+/homework-6/app/.env

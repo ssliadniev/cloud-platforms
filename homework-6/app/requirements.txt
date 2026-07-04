@@ -1,0 +1,12 @@
+streamlit==1.32.2
+langchain
+langchain-classic
+langchain-community
+langchain-google-vertexai
+langchain-google-community[featurestore]
+google-cloud-storage
+google-cloud-bigquery
+google-cloud-bigquery-storage
+db-dtypes
+pdfminer.six
+python-dotenv
